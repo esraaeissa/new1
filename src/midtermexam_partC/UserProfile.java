@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package midtermexam_partB;
+package midtermexam_partC;
 
 /**
  * The user profile for the OnlineMovie system. The user has a userID
