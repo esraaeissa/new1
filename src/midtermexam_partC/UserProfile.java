@@ -37,7 +37,7 @@ public class UserProfile
     public void setUserID(String userID) {
         this.userID = userID;
     }
-
+//System.out.println("c"); 
     /**
      * @return the genre
      */
